@@ -1,0 +1,126 @@
+<mxfile host="Electron" modified="2024-06-03T16:10:09.316Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.4.8 Chrome/124.0.6367.207 Electron/30.0.6 Safari/537.36" etag="9vcd0soqU4_lSxxG_yu5" version="24.4.8" type="device">
+  <diagram name="Page-1" id="929967ad-93f9-6ef4-fab6-5d389245f69c">
+    <mxGraphModel dx="2206" dy="1338" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" style=";html=1;" />
+        <mxCell id="1" style=";html=1;" parent="0" />
+        <mxCell id="AOD8_uZ01gnfsMA7LF1y-61" value="&lt;p style=&quot;margin:0px;margin-top:4px;margin-left:7px;text-align:left;&quot;&gt;&lt;b&gt;req&lt;/b&gt;&amp;nbsp;Déplacement,&amp;nbsp;&amp;nbsp;&lt;/p&gt;" style="html=1;shape=mxgraph.sysml.package;overflow=fill;labelX=193.56;strokeWidth=2;align=center;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="22" y="140" width="1710" height="775" as="geometry" />
+        </mxCell>
+        <mxCell id="1672d66443f91eb5-2" value="&lt;font face=&quot;Poppins&quot;&gt;Robot Soccer&lt;/font&gt;" style="shape=folder;tabWidth=80;tabHeight=20;tabPosition=left;strokeWidth=1;html=1;whiteSpace=wrap;align=center;fontSize=12;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="1170" y="185" width="160" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="1672d66443f91eb5-4" value="&lt;p&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;/p&gt;&lt;p&gt;Déplacement&lt;/p&gt;" style="shape=rect;html=1;overflow=fill;whiteSpace=wrap;align=center;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="590" y="195" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="AOD8_uZ01gnfsMA7LF1y-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=circlePlus;endFill=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=block;startFill=1;" edge="1" parent="1" source="1672d66443f91eb5-5" target="1672d66443f91eb5-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="670" y="275" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1672d66443f91eb5-5" value="&lt;p&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;/p&gt;&lt;p&gt;Compétitif&lt;/p&gt;" style="shape=rect;html=1;overflow=fill;whiteSpace=wrap;align=center;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="590" y="435" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="1672d66443f91eb5-10" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Vitesse&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;Id = &quot;R1.2&quot;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;text=&quot;Le robot doit pouvoir se déplacer suffisament vite pour être compétitif&quot;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;Value : Vmax = 50 cm/s&lt;/p&gt;" style="shape=rect;html=1;overflow=fill;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="560" y="605" width="220" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="1672d66443f91eb5-12" value="&lt;b&gt;SatisfiedBy&lt;/b&gt;&lt;div&gt;&amp;lt;&amp;lt;block&amp;gt;&amp;gt; Omniwheels&lt;/div&gt;" style="shape=note;size=15;align=left;spacingLeft=10;html=1;whiteSpace=wrap;strokeWidth=1;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="40" y="605" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AOD8_uZ01gnfsMA7LF1y-7" value="&lt;p&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;/p&gt;&lt;p&gt;Être capble de se déplacer instantanément dans n&#39;importe qu&#39;elle direction&amp;nbsp;&lt;/p&gt;" style="shape=rect;html=1;overflow=fill;whiteSpace=wrap;align=center;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="284" y="435" width="170" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="AOD8_uZ01gnfsMA7LF1y-9" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Mobilités&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;Id = &quot;R1.1&lt;span style=&quot;background-color: initial;&quot;&gt;&quot;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;text=&quot;La liaison Robot --) Sol doit être équivalente à une liaison plan.&quot;&lt;/p&gt;" style="shape=rect;html=1;overflow=fill;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="240" y="605" width="258" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="AOD8_uZ01gnfsMA7LF1y-10" value="Déplacement Holomnique" style="shape=rect;html=1;whiteSpace=wrap;align=center;" vertex="1" parent="1">
+          <mxGeometry x="310" y="795" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AOD8_uZ01gnfsMA7LF1y-12" value="&amp;lt;&amp;lt;refine&amp;gt;&amp;gt;" style="endArrow=open;edgeStyle=none;endSize=12;dashed=1;html=1;rounded=0;" edge="1" source="AOD8_uZ01gnfsMA7LF1y-10" target="AOD8_uZ01gnfsMA7LF1y-9" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AOD8_uZ01gnfsMA7LF1y-16" value="&amp;lt;&amp;lt;satisfy&amp;gt;&amp;gt;" style="endArrow=open;edgeStyle=none;endSize=12;dashed=1;html=1;rounded=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" source="1672d66443f91eb5-12" target="AOD8_uZ01gnfsMA7LF1y-7" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="59.997272727272616" y="615" as="sourcePoint" />
+            <mxPoint x="187.26999999999998" y="535" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AOD8_uZ01gnfsMA7LF1y-29" value="" style="rounded=0;html=1;labelBackgroundColor=none;endArrow=classic;edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=sysMLPackCont;startSize=12;endFill=1;exitX=0;exitY=0;exitDx=0;exitDy=55;exitPerimeter=0;" edge="1" source="1672d66443f91eb5-2" target="1672d66443f91eb5-4" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1180" y="250" as="sourcePoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AOD8_uZ01gnfsMA7LF1y-33" value="" style="rounded=0;html=1;labelBackgroundColor=none;endArrow=classic;edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=sysMLPackCont;startSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endFill=1;" edge="1" source="AOD8_uZ01gnfsMA7LF1y-7" target="AOD8_uZ01gnfsMA7LF1y-9" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AOD8_uZ01gnfsMA7LF1y-34" value="" style="rounded=0;html=1;labelBackgroundColor=none;endArrow=classic;edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=sysMLPackCont;startSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endFill=1;" edge="1" source="1672d66443f91eb5-4" target="AOD8_uZ01gnfsMA7LF1y-7" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="550" y="345" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AOD8_uZ01gnfsMA7LF1y-37" value="&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;Respect des normes du concours" style="shape=rect;html=1;whiteSpace=wrap;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1170" y="415" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="AOD8_uZ01gnfsMA7LF1y-38" value="" style="rounded=0;html=1;labelBackgroundColor=none;endArrow=classic;edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=sysMLPackCont;startSize=12;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endFill=1;" edge="1" source="1672d66443f91eb5-5" target="1672d66443f91eb5-10" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AOD8_uZ01gnfsMA7LF1y-39" value="" style="rounded=0;html=1;labelBackgroundColor=none;endArrow=classic;edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=sysMLPackCont;startSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endFill=1;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="1672d66443f91eb5-2" target="AOD8_uZ01gnfsMA7LF1y-37" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1250" y="350" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AOD8_uZ01gnfsMA7LF1y-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=circlePlus;endFill=0;startArrow=classicThin;startFill=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="AOD8_uZ01gnfsMA7LF1y-47" target="AOD8_uZ01gnfsMA7LF1y-37">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1089.9955172413793" y="624.03" as="sourcePoint" />
+            <mxPoint x="1370" y="504.9999999999998" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1140" y="555" />
+              <mxPoint x="1250" y="555" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AOD8_uZ01gnfsMA7LF1y-47" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Alimentation&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;text=&quot;La tension nominale de la batterie ne doit pas excéder 12V&quot;&lt;br&gt;Id=&quot;1.3.1&quot;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="625" width="200" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="AOD8_uZ01gnfsMA7LF1y-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=circlePlus;endFill=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="AOD8_uZ01gnfsMA7LF1y-52" target="AOD8_uZ01gnfsMA7LF1y-37">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1370" y="504.9999999999998" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AOD8_uZ01gnfsMA7LF1y-52" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Masse&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;Id = &quot;R1.3.2&quot;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;text=&quot;La masse totale du robot ne pas excéder 1100g&quot;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;Value : Mmax = 1100g&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1260" y="625" width="200" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="AOD8_uZ01gnfsMA7LF1y-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;endArrow=circlePlus;endFill=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="AOD8_uZ01gnfsMA7LF1y-37">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1570" y="645" as="sourcePoint" />
+            <mxPoint x="1220" y="525" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1570" y="555" />
+              <mxPoint x="1250" y="555" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AOD8_uZ01gnfsMA7LF1y-57" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Encombrement&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px; text-align: left;&quot;&gt;Id=&quot;R1.3.3&quot;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px; text-align: left;&quot;&gt;text=&quot;Le robot doit pouvoir rentrer dans un cylindre de 22cm de diamètre &quot;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1500" y="625" width="200" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="AOD8_uZ01gnfsMA7LF1y-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=circlePlus;endFill=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="AOD8_uZ01gnfsMA7LF1y-59" target="AOD8_uZ01gnfsMA7LF1y-37">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="920" y="555" />
+              <mxPoint x="1250" y="555" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AOD8_uZ01gnfsMA7LF1y-59" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Vitesse minimale&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;text=&quot;Le robot doit pouvoir se déplacer à plus 2 cm/s&quot;&lt;br&gt;Id=&quot;R1.3.1&quot;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;" vertex="1" parent="1">
+          <mxGeometry x="820" y="625" width="200" height="100" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

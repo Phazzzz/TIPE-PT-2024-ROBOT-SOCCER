@@ -1,0 +1,62 @@
+<mxfile host="Electron" modified="2024-06-05T15:53:54.550Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.4.8 Chrome/124.0.6367.207 Electron/30.0.6 Safari/537.36" etag="TOQbu2nnbXj2ctDNtrv1" version="24.4.8" type="device">
+  <diagram name="Page-1" id="vRRcBEyCu42Y6oRl-xCS">
+    <mxGraphModel dx="934" dy="655" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="JaOcK5ZlzzrKZGdoClD--14" value="&lt;p style=&quot;margin: 4px 0px 0px 7px; text-align: left; font-size: 16px;&quot;&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;req&lt;/b&gt;&amp;nbsp;Robot Soccer, Respect des Normes&lt;/p&gt;" style="html=1;shape=mxgraph.sysml.package;overflow=fill;labelX=304.22;strokeWidth=2;align=center;fillColor=none;fontSize=16;labelBackgroundColor=none;strokeColor=#788AA3;fontColor=#46495D;" parent="1" vertex="1">
+          <mxGeometry x="261" y="97" width="696" height="504" as="geometry" />
+        </mxCell>
+        <mxCell id="JaOcK5ZlzzrKZGdoClD--1" value="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;Poppins&quot;&gt;Robot Soccer&lt;/font&gt;" style="shape=folder;tabWidth=80;tabHeight=20;tabPosition=left;strokeWidth=1;html=1;whiteSpace=wrap;align=center;fontSize=16;fontStyle=1;labelBackgroundColor=none;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;" parent="1" vertex="1">
+          <mxGeometry x="540" y="133" width="160" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="JaOcK5ZlzzrKZGdoClD--13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=circlePlus;endFill=0;labelBackgroundColor=none;strokeColor=#788AA3;fontColor=default;" parent="1" source="JaOcK5ZlzzrKZGdoClD--2" target="JaOcK5ZlzzrKZGdoClD--1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JaOcK5ZlzzrKZGdoClD--2" value="&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br style=&quot;font-size: 16px;&quot;&gt;Respect des normes du concours" style="shape=rect;html=1;whiteSpace=wrap;align=center;fontSize=16;labelBackgroundColor=none;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;" parent="1" vertex="1">
+          <mxGeometry x="532" y="251" width="176" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="JaOcK5ZlzzrKZGdoClD--5" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center; font-size: 16px;&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br style=&quot;font-size: 16px;&quot;&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;Alimentation&lt;/b&gt;&lt;/p&gt;&lt;hr style=&quot;font-size: 16px;&quot;&gt;&lt;p style=&quot;font-size: 16px;&quot;&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px; text-align: left; font-size: 16px;&quot;&gt;text=&quot;La tension nominale de la batterie ne doit pas excéder 12V&quot;&lt;br style=&quot;font-size: 16px;&quot;&gt;Id=&quot;1.3.1&quot;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;fontSize=16;labelBackgroundColor=none;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;" parent="1" vertex="1">
+          <mxGeometry x="276" y="369" width="200" height="162" as="geometry" />
+        </mxCell>
+        <mxCell id="JaOcK5ZlzzrKZGdoClD--6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=circlePlus;endFill=0;startArrow=classic;startFill=1;labelBackgroundColor=none;strokeColor=#788AA3;fontColor=default;" parent="1" source="JaOcK5ZlzzrKZGdoClD--7" target="JaOcK5ZlzzrKZGdoClD--2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="740" y="329.9999999999998" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JaOcK5ZlzzrKZGdoClD--7" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center; font-size: 16px;&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br style=&quot;font-size: 16px;&quot;&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;Masse&lt;/b&gt;&lt;/p&gt;&lt;hr style=&quot;font-size: 16px;&quot;&gt;&lt;p style=&quot;font-size: 16px;&quot;&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px; text-align: left; font-size: 16px;&quot;&gt;Id = &quot;R1.3.2&quot;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px; text-align: left; font-size: 16px;&quot;&gt;text=&quot;La masse totale du robot ne pas excéder 1100g&quot;&lt;br style=&quot;font-size: 16px;&quot;&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px; text-align: left; font-size: 16px;&quot;&gt;Value : Mmax = 1100g&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;fontSize=16;labelBackgroundColor=none;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;" parent="1" vertex="1">
+          <mxGeometry x="520" y="416" width="200" height="175" as="geometry" />
+        </mxCell>
+        <mxCell id="JaOcK5ZlzzrKZGdoClD--9" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center; font-size: 16px;&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br style=&quot;font-size: 16px;&quot;&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;Encombrement&lt;/b&gt;&lt;/p&gt;&lt;hr style=&quot;font-size: 16px;&quot;&gt;&lt;p style=&quot;font-size: 16px;&quot;&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px; text-align: left; font-size: 16px;&quot;&gt;Id=&quot;R1.3.3&quot;&lt;br style=&quot;font-size: 16px;&quot;&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px; text-align: left; font-size: 16px;&quot;&gt;text=&quot;Le robot doit pouvoir rentrer dans un cylindre de 22cm de diamètre &quot;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;fontSize=16;labelBackgroundColor=none;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;" parent="1" vertex="1">
+          <mxGeometry x="743" y="269" width="200" height="168" as="geometry" />
+        </mxCell>
+        <mxCell id="JaOcK5ZlzzrKZGdoClD--10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=circlePlus;endFill=0;startArrow=classic;startFill=1;labelBackgroundColor=none;strokeColor=#788AA3;fontColor=default;" parent="1" source="JaOcK5ZlzzrKZGdoClD--11" target="JaOcK5ZlzzrKZGdoClD--2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="290" y="289" />
+              <mxPoint x="540" y="289" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JaOcK5ZlzzrKZGdoClD--11" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center; font-size: 16px;&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br style=&quot;font-size: 16px;&quot;&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;Vitesse minimale&lt;/b&gt;&lt;/p&gt;&lt;hr style=&quot;font-size: 16px;&quot;&gt;&lt;p style=&quot;font-size: 16px;&quot;&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px; text-align: left; font-size: 16px;&quot;&gt;text=&quot;Le robot doit pouvoir se déplacer à plus 2 cm/s&quot;&lt;br style=&quot;font-size: 16px;&quot;&gt;Id=&quot;R1.3.1&quot;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;fontSize=16;labelBackgroundColor=none;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;" parent="1" vertex="1">
+          <mxGeometry x="276" y="210" width="200" height="136" as="geometry" />
+        </mxCell>
+        <mxCell id="ur2iOtunABLaNKlcrRej-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=circlePlus;endFill=0;startArrow=classic;startFill=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=1.007;exitY=0.148;exitDx=0;exitDy=0;exitPerimeter=0;labelBackgroundColor=none;strokeColor=#788AA3;fontColor=default;" edge="1" parent="1" source="JaOcK5ZlzzrKZGdoClD--5" target="JaOcK5ZlzzrKZGdoClD--2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+            <mxPoint x="522" y="335" as="sourcePoint" />
+            <mxPoint x="586" y="326" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ur2iOtunABLaNKlcrRej-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=circlePlus;endFill=0;startArrow=classic;startFill=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;labelBackgroundColor=none;strokeColor=#788AA3;fontColor=default;" edge="1" parent="1" source="JaOcK5ZlzzrKZGdoClD--9" target="JaOcK5ZlzzrKZGdoClD--2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+            <mxPoint x="486" y="390" as="sourcePoint" />
+            <mxPoint x="630" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

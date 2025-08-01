@@ -1,0 +1,76 @@
+<mxfile host="Electron" modified="2024-06-03T16:19:28.645Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.4.8 Chrome/124.0.6367.207 Electron/30.0.6 Safari/537.36" etag="of5BqgAFT0m-vdhX0H5l" version="24.4.8" type="device">
+  <diagram name="Page-1" id="929967ad-93f9-6ef4-fab6-5d389245f69c">
+    <mxGraphModel dx="1434" dy="836" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1600" pageHeight="1200" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" style=";html=1;" />
+        <mxCell id="1" style=";html=1;" parent="0" />
+        <mxCell id="SuYFZXLMQbRVNqMeEg---1" value="&lt;p style=&quot;margin:0px;margin-top:4px;margin-left:7px;text-align:left;&quot;&gt;&lt;b&gt;req Robot Soccer,&amp;nbsp;&lt;/b&gt;Déplacement&amp;nbsp;&lt;/p&gt;" style="html=1;shape=mxgraph.sysml.package;overflow=fill;labelX=194;strokeWidth=2;align=center;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="340" y="200" width="900" height="430" as="geometry" />
+        </mxCell>
+        <mxCell id="EWiZ6klcPESEgHPnIRAC-2" value="&lt;font face=&quot;Poppins&quot;&gt;Robot Soccer&lt;/font&gt;" style="shape=folder;tabWidth=80;tabHeight=20;tabPosition=left;strokeWidth=1;html=1;whiteSpace=wrap;align=center;fontSize=12;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="770" y="210" width="160" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="EWiZ6klcPESEgHPnIRAC-3" value="&lt;p&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;/p&gt;&lt;p&gt;Déplacement&lt;/p&gt;" style="shape=rect;html=1;overflow=fill;whiteSpace=wrap;align=center;fontStyle=1;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="770" y="350" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="EWiZ6klcPESEgHPnIRAC-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=circlePlus;endFill=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;startArrow=block;startFill=1;strokeWidth=1;" parent="1" source="EWiZ6klcPESEgHPnIRAC-5" target="EWiZ6klcPESEgHPnIRAC-3" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="670" y="275" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EWiZ6klcPESEgHPnIRAC-5" value="&lt;p&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;/p&gt;&lt;p&gt;Compétitif&lt;/p&gt;" style="shape=rect;html=1;overflow=fill;whiteSpace=wrap;align=center;fontStyle=1;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="1020" y="355" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="EWiZ6klcPESEgHPnIRAC-6" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Vitesse&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;Id = &quot;R1.2&quot;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;text=&quot;Le robot doit pouvoir se déplacer suffisament vite pour être compétitif&quot;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;Value : Vmax = 50 cm/s&lt;/p&gt;" style="shape=rect;html=1;overflow=fill;whiteSpace=wrap;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="990" y="480" width="220" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="EWiZ6klcPESEgHPnIRAC-7" value="&lt;b&gt;SatisfiedBy&lt;/b&gt;&lt;div&gt;&amp;lt;&amp;lt;block&amp;gt;&amp;gt; 3 Omniwheels placés en étoiles&lt;/div&gt;" style="shape=note;size=15;align=left;spacingLeft=10;html=1;whiteSpace=wrap;strokeWidth=1;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="350" y="510" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="EWiZ6klcPESEgHPnIRAC-8" value="&lt;p&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;/p&gt;&lt;p&gt;Être capble de se déplacer instantanément dans n&#39;importe qu&#39;elle direction&amp;nbsp;&lt;/p&gt;" style="shape=rect;html=1;overflow=fill;whiteSpace=wrap;align=center;fontStyle=1;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="540" y="345" width="170" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="EWiZ6klcPESEgHPnIRAC-9" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Mobilités&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;Id = &quot;R1.1&lt;span style=&quot;background-color: initial;&quot;&gt;&quot;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;text=&quot;La liaison Robot --) Sol doit être équivalente à une liaison plan.&quot;&lt;/p&gt;" style="shape=rect;html=1;overflow=fill;whiteSpace=wrap;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="599" y="490" width="258" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="EWiZ6klcPESEgHPnIRAC-10" value="Déplacement Holomnique" style="shape=rect;html=1;whiteSpace=wrap;align=center;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="350" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EWiZ6klcPESEgHPnIRAC-11" value="&amp;lt;&amp;lt;refine&amp;gt;&amp;gt;" style="endArrow=open;edgeStyle=none;endSize=12;dashed=1;html=1;rounded=0;strokeWidth=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="EWiZ6klcPESEgHPnIRAC-10" target="EWiZ6klcPESEgHPnIRAC-8" edge="1">
+          <mxGeometry x="0.0126" y="18" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EWiZ6klcPESEgHPnIRAC-12" value="&amp;lt;&amp;lt;satisfy&amp;gt;&amp;gt;" style="endArrow=open;edgeStyle=none;endSize=12;dashed=1;html=1;rounded=0;strokeWidth=1;" parent="1" source="EWiZ6klcPESEgHPnIRAC-7" target="EWiZ6klcPESEgHPnIRAC-9" edge="1">
+          <mxGeometry x="-0.1011" y="10" relative="1" as="geometry">
+            <mxPoint x="59.997272727272616" y="615" as="sourcePoint" />
+            <mxPoint x="187.26999999999998" y="535" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EWiZ6klcPESEgHPnIRAC-13" value="" style="rounded=0;html=1;labelBackgroundColor=none;endArrow=classic;edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=sysMLPackCont;startSize=12;endFill=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="EWiZ6klcPESEgHPnIRAC-2" target="EWiZ6klcPESEgHPnIRAC-3" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1180" y="250" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="850" y="320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EWiZ6klcPESEgHPnIRAC-14" value="" style="rounded=0;html=1;labelBackgroundColor=none;endArrow=classic;edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=sysMLPackCont;startSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endFill=1;strokeWidth=1;" parent="1" source="EWiZ6klcPESEgHPnIRAC-8" target="EWiZ6klcPESEgHPnIRAC-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EWiZ6klcPESEgHPnIRAC-15" value="" style="rounded=0;html=1;labelBackgroundColor=none;endArrow=classic;edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=sysMLPackCont;startSize=12;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endFill=1;strokeWidth=1;" parent="1" source="EWiZ6klcPESEgHPnIRAC-3" target="EWiZ6klcPESEgHPnIRAC-8" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="750" y="390" />
+              <mxPoint x="620" y="440" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EWiZ6klcPESEgHPnIRAC-17" value="" style="rounded=0;html=1;labelBackgroundColor=none;endArrow=classic;edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=sysMLPackCont;startSize=12;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endFill=1;strokeWidth=1;" parent="1" source="EWiZ6klcPESEgHPnIRAC-5" target="EWiZ6klcPESEgHPnIRAC-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
