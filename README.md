@@ -39,7 +39,7 @@ J'ai commencé par les sections les plus importantes, à savoir la partie théor
 ## Qu'est ce que l'on peut trouver dans ce repo ?
 Ce repo contient absolument tous les documents que j'ai utilisé pour mon TIPE, ceux que j'ai récupéré sur Internet, et ceux que j'ai moi-même crée. LA présentation finale, le MCOT, le DOT, le code, mes notes (expérience, théorique, etc.), la documentation, les images, les diagrammes, etc. Je précise que tous les documents ne sont pas nécessairement libres de droits, vous pourrez trouver les références des images en notes de bas de pages dans le document "Présentation.pdf" et "Notes>Documentation externe".
 
-## Remerciement 
+## Remerciements
 Merci à mon père et mes profs de prépa pour le soutien.
 J'espère que ce repo pourra vous aider et bon courage pour les concours !
 
